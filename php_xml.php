@@ -1,5 +1,6 @@
 <?php
-
+//PHP file that contains the info for DB.
+//$username, $password, $database
 require("phpsqlajax_dbinfo.php");
 
 // Start XML file, create parent node

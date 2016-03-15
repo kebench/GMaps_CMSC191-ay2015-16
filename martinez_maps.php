@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyAumhPNPmDt0XyO_nRZ_809Q9CK60qdhy8"></script>
+<script src="http://maps.googleapis.com/maps/api/js?key=API_KEY"></script>
 <script>
 var myUPLB=new google.maps.LatLng(14.167525, 121.243368);
 var infoWindow = new google.maps.InfoWindow;
